@@ -13,7 +13,7 @@ This is my personal portfolio website showcasing my skills, projects, and resume
 HTML, CSS, JavaScript
 
 ## Demo
-[Live Site on Vercel](https://umar-dev-portfolio.vercel.app/)
+[Live Site on Vercel](https://umar-atif-portfolio.vercel.app/)
 
 ## Author
 Umar Atif  
